@@ -1,0 +1,2 @@
+# HiveSqlStudy
+study HiveSql
