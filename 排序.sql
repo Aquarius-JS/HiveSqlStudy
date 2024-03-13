@@ -7,3 +7,5 @@ order by column Asc/Desc;
 Select column, another_column 
 From mytable
 sort by column Asc;
+
+-- distribute by

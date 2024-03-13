@@ -9,3 +9,13 @@ Select
     end as num
 from
     my_table;
+
+Select
+    name,
+    (
+        case
+            When chinese > 80 Then '语文好'
+        end as review
+    )
+from
+    my_table
